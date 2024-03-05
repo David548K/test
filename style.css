@@ -1,0 +1,26 @@
+/*  Global  */
+*{
+    font-family: monospace;
+}
+hr{
+    margin: 10px 0;
+}
+
+
+/*  Header  */
+.header{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+/*  Footer  */
+.footer{
+    margin-top: 30px;
+    width: 100%;
+    height: 10vh;
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
